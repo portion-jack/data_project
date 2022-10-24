@@ -7,6 +7,8 @@
 - 의약품주성분코드~의약품일반명 매핑용 자료(csv)
 
 ### repo_outline
+
+```
 .
 ├── data
 │   ├── preprocessed_data
@@ -21,6 +23,7 @@
 └── preprocessing_baseline_1.ipynb
 
 5 directories, 6 files
+```
 
 ### did
 1. 한글 font matplotlib setting
@@ -45,4 +48,6 @@
 
     """
 - csv가 아닌 string도 dockstring을 사용하여 파싱하면 편하게 작업할 수 있다.
+
+6. 
 
