@@ -49,5 +49,5 @@
     """
 - csv가 아닌 string도 dockstring을 사용하여 파싱하면 편하게 작업할 수 있다.
 
-6. 
-
+#### google drive에 옮기기 너무 큼
+column 자를꺼 자르기
