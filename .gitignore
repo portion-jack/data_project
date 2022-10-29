@@ -1,1 +1,8 @@
+# default
+.DS_Store
+
+# data (no need to upload in github)
 news_crawling/
+preprocessed_1_/
+
+
