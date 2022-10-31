@@ -1,13 +1,8 @@
-## pickle data
-1. news_brand 별로
+코리아중앙데일리
+-> 삭제해도 될듯
 
-news_brand  = {
-date_1 : news,
-date_2 : news,
-.
-.
-.
-}
-로 dictionary 형태로 만들기
+##
+# 가장 예전 뉴스
+print(sorted(list(set([i.split("_")[-1].split(".")[0] for i in news_files])))[0])
 
-2년 보면 좋을것 같은뎅
+20210606

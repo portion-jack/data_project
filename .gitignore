@@ -3,6 +3,6 @@
 
 # data (no need to upload in github)
 news_crawling/
-preprocessed_1_/
-
-
+_preprocessed_1_/
+_preprocessed_2_/
+raw_data_news_crawling/
