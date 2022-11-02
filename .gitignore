@@ -1,8 +1,8 @@
 # default
 .DS_Store
+.ipynb_checkpoints
+.vscode
 
 # data (no need to upload in github)
-news_crawling/
-_preprocessed_1_/
-_preprocessed_2_/
-raw_data_news_crawling/
+_used/
+raw_data/

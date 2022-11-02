@@ -1,3 +1,22 @@
+```
+.
+├── 1_crwaling.ipynb
+├── 2_pickle2df.ipynb
+├── 3_wordcloud.ipynb
+├── README.md
+├── outline.md
+├── preprocessed_data
+│   └── news_data.csv
+└── raw_data
+    └── naver_news_ranking_raw_data
+
+3 directories, 6 files
+
+```
+
+
+
+
 1. 네이버 뉴스에서 탑랭킹에 속한 9개 뉴스브랜드의 5개의 뉴스들
     - 총 45개의 뉴스타이틀을 크롤링합니다.
 2. 뉴스브랜드_날짜.pickle 로 이를 리스트 형식으로 저장합니다
